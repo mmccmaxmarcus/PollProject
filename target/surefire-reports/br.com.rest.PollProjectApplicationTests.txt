@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.rest.PollProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.118 s - in br.com.rest.PollProjectApplicationTests

@@ -1,0 +1,13 @@
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/model/Stats.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/repository/StatsRepository.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/dto/VoteDTO.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/model/Poll.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/model/Option.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/repository/OptionRepository.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/controller/PollController.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/dto/StatsDTO.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/PollProjectApplication.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/dto/PollDTO.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/model/Vote.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/repository/VoteRepository.java
+/home/mmarcus/ProjetosGit/PollProject/src/main/java/br/com/rest/repository/PollRepository.java
